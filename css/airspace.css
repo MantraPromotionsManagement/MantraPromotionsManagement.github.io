@@ -349,7 +349,17 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 75px;
 }
 #clients-logo-section .clients-logo-img {
-  padding: 0px 50px;
+  height: 100px;
+  position: relative
+}
+#clients-logo-section .clients-logo-img img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translate(0,-50%);
+  transform: translate3d(0,-50%,0);
+  margin: 0 auto;
 }
 /*---------------------------------------------
 					Work Start
