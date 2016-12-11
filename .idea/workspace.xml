@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d1886e3-888d-49b5-b5d2-32cf25520d0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/work/2016-05-20-work1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work-new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work-old.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/clients/clients-logo8.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-05-20-my-example-post.md" afterPath="$PROJECT_DIR$/_posts/blog/2016-05-20-my-example-post.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-05-20-super-long-article.md" afterPath="$PROJECT_DIR$/_posts/blog/2016-05-20-super-long-article.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-05-20-this-post-demonstrates-post-content-styles.md" afterPath="$PROJECT_DIR$/_posts/blog/2016-05-20-this-post-demonstrates-post-content-styles.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md" afterPath="$PROJECT_DIR$/_posts/blog/2016-05-20-welcome-to-jekyll.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-10-14-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/blog/2016-10-14-welcome-to-jekyll.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/clients/clients-logo1.png" afterPath="$PROJECT_DIR$/img/clients/clients-logo1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/airspace.css" afterPath="$PROJECT_DIR$/css/airspace.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/owl.carousel.css" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work.html" afterPath="$PROJECT_DIR$/work.html" />
     </list>
     <ignored path="mantrapromotionsmanagement.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,11 +77,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="airspace.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="airspace.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/css/airspace.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="-529">
               <caret line="534" column="21" selection-start-line="534" selection-start-column="21" selection-end-line="534" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -126,16 +112,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -171,7 +147,6 @@
         <option value="$PROJECT_DIR$/_posts/work/2016-05-20-work1.md" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/work.html" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_site/js/main.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/_site/about/index.html" />
@@ -179,6 +154,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_site/contact/index.html" />
         <option value="$PROJECT_DIR$/_site/css/airspace.css" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -482,12 +458,12 @@
       <option name="presentableId" value="Default" />
       <updated>1476443775004</updated>
       <workItem from="1476443776294" duration="4402000" />
-      <workItem from="1481457554402" duration="16431000" />
+      <workItem from="1481457554402" duration="17045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20833000" />
+    <option name="totallyTimeSpent" value="21447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="993" y="24" width="926" height="1056" extended-state="4" />
@@ -832,14 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -928,8 +896,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/css/airspace.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="-529">
           <caret line="534" column="21" selection-start-line="534" selection-start-column="21" selection-end-line="534" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
         </state>
       </provider>
